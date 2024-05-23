@@ -17,8 +17,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunohhh&hide=contribs,prs&show_icons=true&theme=테마)
 
 ### 🧑‍💻🧑‍💻🧑‍💻🧑‍💻
-![EunOh's Home](https://eunoh.top)
-![EunOh's Blog](https://ifelseif.tistory.com/)
+[EunOh's Home](https://eunoh.top)
+[![EunOh's Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://ifelseif.tistory.com/)
 
 </div>
 <!--
