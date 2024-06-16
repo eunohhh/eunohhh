@@ -24,8 +24,9 @@
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🏅🏅🏅🏅
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunohhh)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunohhh&hide=contribs,prs&show_icons=true&theme=테마)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunohhh&layout=compact&theme=graywhite" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=eunohhh&show_icons=true&theme=graywhite" height="180px" />
 
 ### 🧑‍💻🧑‍💻🧑‍💻🧑‍💻
 <a href="https://eunoh.top">🏠🏠🏠🏠</a>
