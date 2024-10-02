@@ -29,7 +29,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=eunohhh&show_icons=true&theme=graywhite" height="180px" />
 
 ### 🧑‍💻🧑‍💻🧑‍💻🧑‍💻
-<a href="https://eunoh.top">🏠🏠🏠🏠</a>
+<a href="https://eunoh-dev.vercel.app">🏠🏠🏠🏠</a>
 [![EunOh's Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://ifelseif.tistory.com/)
 
 </div>
