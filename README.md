@@ -25,10 +25,8 @@
 
 ### 🏅🏅🏅🏅
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunohhh&layout=compact&theme=graywhite" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api?username=eunohhh&show_icons=true&theme=graywhite" height="180px" />
-
 ![eunohhh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eunohhh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![eunohhh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eunohhh&theme=vue-dark&hide_border=true)
 ![eunohhh's Stats](https://github-readme-stats.vercel.app/api?username=eunohhh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ### 🧑‍💻🧑‍💻🧑‍💻🧑‍💻
