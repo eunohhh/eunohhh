@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🛠️🛠️🛠️🛠️
-Eun Oh, FE Engineer
+Eun Oh, Web Engineer
 
 ### 🧑‍💻🧑‍💻🧑‍💻🧑‍💻
 <a href="https://eunoh.top">포트폴리오</a>
